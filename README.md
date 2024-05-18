@@ -22,4 +22,6 @@ This web application is developed with MySQL, PHP, Codeigniter, jQuery
 ![ScreenShot](https://raw.githubusercontent.com/tugbadogan/hotelmanagement/master/screenshots/2.png)
 
 ![ScreenShot](https://raw.githubusercontent.com/tugbadogan/hotelmanagement/master/screenshots/7.png)
+ 
 
+ damith namal
